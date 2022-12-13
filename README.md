@@ -1,4 +1,4 @@
-# Nested Recursive Loops Using Functions Issue
+# Issue Using Nested Recursive Loops
 I am having issues with this code that uses nested recursive loops. The code is in Python and for some reason the loop won't stop and randomly keeps going and then out of nowhere decides to stop even though it should keep going with the issue that is occuring.
 
 ## Code
