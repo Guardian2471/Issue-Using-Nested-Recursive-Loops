@@ -1,9 +1,8 @@
-# Nested-Recursive-Loops-Using-Functions
-I am having issues with this code that uses nested recursive loops
-The code is in Python and for some reason the loop wont stop and randomly keeps going and then out of nowhere decides to stop even though it should keep going with the issue that is occuring.
+# Nested Recursive Loops Using Functions
+I am having issues with this code that uses nested recursive loops. The code is in Python and for some reason the loop won't stop and randomly keeps going and then out of nowhere decides to stop even though it should keep going with the issue that is occuring.
 
-## Nested recursive loops
-
+## Code
+```python
 nested_recursive_loop_variable1 = 0
 
 
@@ -30,3 +29,4 @@ def nested_recursive_loop2(nested_recursive_loop_variable1, nested_recursive_loo
 
 nested_recursive_loop1(nested_recursive_loop_variable1)
 print()
+```
